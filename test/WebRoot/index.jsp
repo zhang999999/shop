@@ -21,7 +21,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   </head>
   
   <body>
-    This is my JSP page.修改成功了吗? 第二次修改的内容啊,这是第三次修改的内容,第四次修改的内容这是,第五次修改的内容<br>
-    这里是测试的内容
+    这个是网页2的内容
   </body>
 </html>
