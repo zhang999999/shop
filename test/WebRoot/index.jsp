@@ -22,11 +22,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
     
   <body>
     这个是网页2的内容
-	哈哈哈 
-可以看的见吗?
- 第一次修改哈哈哈
-第二次的修改哈哈哈哈哈
-第三粗修改的呵呵呵
-地四处修改的呵呵呵呵
+修改成功了吗?
   </body>
 </html>
