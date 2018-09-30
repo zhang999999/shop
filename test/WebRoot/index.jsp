@@ -26,5 +26,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 	成功,哈哈哈
 	河南
 	可以修改吗?
+	同时修改的内容jsp
   </body>
 </html>
